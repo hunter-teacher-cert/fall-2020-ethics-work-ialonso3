@@ -36,11 +36,11 @@ def displayState():
     print(i,end="\t")
     if i%2 == 0:
       start = 0
-      end = NUM_COLS - 1
+      end = NUM_COLS
       change = 1
     else:
       start = NUM_COLS -1
-      end = 0
+      end = -1
       change = -1
 
     for j in range(start,end,change):
