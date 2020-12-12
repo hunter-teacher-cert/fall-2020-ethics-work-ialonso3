@@ -1,0 +1,24 @@
+
+My preferred topics are:
+
+1) Digital Divide. Serving a population who is usually lacking in digital services, which, now teaching 
+remotely had become a very complex issue which had to be addressed by admin, teachers
+and the DOE, as well as donnors, I am very interested in this topic.  Can we provide enough internet and 
+computing power to all americans?
+
+2) Net neutrality.  While it is hard to argue against companies wantng to give better
+service to their customers, I much prefer the "old ways" - pretty recent actually - of net neutrality.  
+There is a Vint Cert video which we used in AP CSP where he specifically talks about Net neutrality.
+He specifically defends this property and encourages the audience to rally behind it.  His perspective
+is that the internet is really an idea, a concept, about de-centralizing data and 
+services and that net neutrality is a basic part of that concept. While he does not specifically mention it,
+he seems to imply that without it, the internet is no longer the internet, certanly,
+not the same internet.
+
+3) AI Bias - This is really my number one topic, I am just not sure how I would include code in this. 
+(Actually on neither, really).  I find the bias in AI is one of the most important issues we need to
+present to our students, they will be the codesrs of the future and having them be aware and be able to 
+address it is the best.  The main problem I see is that, at least for NNs, the problem is rarely in the algorith 
+itself, but mostly in the data provided.
+
+Any of the above would be great for me!
